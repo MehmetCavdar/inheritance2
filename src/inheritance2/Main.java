@@ -9,6 +9,8 @@ public class Main {
 		//customerManager.add(new FileLogger());
 		//customerManager.add(new EmailLogger());
 		
+		
+		
 	}
 
 }
